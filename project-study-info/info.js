@@ -1,3 +1,18 @@
+// *** 리엑트 설치 ***
+// npx create-react-app -리엑트 설치 할 이름-
+// ex) npx create-react-app react-masterclass
+
+// 리엑트 퍼블리싱 깃에 올리기 (설치 및 방법)
+// npm i gh-pages
+
+// package.json에 추가
+// "scripts":
+//   "deploy": "gh-pages -d build",
+//   "predeploy": "npm run build"
+// 맨하단
+// "homepage": "https://깃 이름.github.io/프로젝트-명"
+// ex) "https://jjonghyuk.github.io/react-for-beginner"
+
 // ----------------------------- #2 [Update] The Basics of React -----------------------------
 
 // # 2.2
